@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "axios": "^0.26.0",
-    "http": "^0.0.1-security",
-    "set-cookie-parser": "^2.4.8"
-  }
-}

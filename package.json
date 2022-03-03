@@ -1,0 +1,26 @@
+{
+  "name": "@screatio/creatio-sdk-client",
+  "private": false,
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "http": "^0.0.1-security",
+    "set-cookie-parser": "^2.4.8"
+  },
+  "description": "creatio sdk client",
+  "main": "src/creatio-client/creatio-client.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Advance-Technologies-Foundation/npm.creatio-client.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/Advance-Technologies-Foundation/npm.creatio-client/issues"
+  },
+  "homepage": "https://github.com/Advance-Technologies-Foundation/npm.creatio-client#readme"
+}
