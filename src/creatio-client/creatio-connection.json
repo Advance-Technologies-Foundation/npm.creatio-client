@@ -1,0 +1,8 @@
+{
+    "authService": "/ServiceModel/AuthService.svc/Login",
+    "defaultPage":  "Login/NuiLogin.aspx",
+    "workspace":  "Default",
+    "authProviderName": "InternalUserPassword",
+    "beforeTimeout":  30000,
+    "netCoreApp": false
+}
